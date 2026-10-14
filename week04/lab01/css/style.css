@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 p {
     color: navy;
 }
@@ -12,4 +13,20 @@ h1,h2 {
 
 nav {
     background-color: rgb(200, 200, 200);
+=======
+p {
+    color: navy;
+}
+
+h1,h2 {
+    color: white;
+}
+
+h1,h2 {
+    background-color: #006;
+}
+
+nav {
+    background-color: rgb(200, 200, 200);
+>>>>>>> 2bbb3a84bf0e9e445d1dfc0cb6c6d29e4d03e465
 }

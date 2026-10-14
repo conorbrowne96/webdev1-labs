@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #e0ffff;
     color: navy;
@@ -25,4 +26,33 @@ address {
 blockquote {
     text-transform: uppercase;
     text-align: center;
+=======
+body {
+    background-color: #e0ffff;
+    color: navy;
+    font-family: garamond, serif;
+}
+
+h3 {
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 14px;
+    color: 000080;
+}
+
+address {
+    font-size: 110%;
+}
+
+blockquote {
+    text-transform: uppercase;
+    text-align: center;
+>>>>>>> 2bbb3a84bf0e9e445d1dfc0cb6c6d29e4d03e465
 }
